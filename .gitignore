@@ -1,0 +1,4 @@
+.DS_Store        # macOS
+*.pyc            # compiled Python files
+__pycache__/     # Python cache
+.venv/           # local virtual environment
